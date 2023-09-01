@@ -27,9 +27,10 @@ The curriculum is organized into several modules, each covering a specific topic
   - Understanding object-oriented programming principles
   
 - **Module 2: Data Manipulation**
+  - Introduction to Numerical Computing with Numpy
   - Master data exploration and manipulation using Python and Pandas
   - Apply data cleaning and preprocessing techniques
-  - 
+    
 - **Module 3: Data Visualization**
   - Visualize data effectively using popular visualization libraries
 
