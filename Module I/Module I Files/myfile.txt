@@ -1,0 +1,6 @@
+Python is a general purpose, high level programming language that was developed by Guido van Rossum in the late 1980s.
+
+Like all high level programming languages, Python code resembles the English language which computers are unable to understand. 
+
+
+For the computer to understand the codes, it has to be interpreted by a special piece of software known as interpreter which must be installed before we can code, text and execute our python programs.
