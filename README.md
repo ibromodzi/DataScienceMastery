@@ -76,6 +76,24 @@ Stay tuned for updates! Make sure to **watch** this repository to receive notifi
 Thank you for joining us on this learning adventure. Together, we're building a comprehensive resource that empowers data science enthusiasts worldwide.
 
 
+## Environment Setup
+
+Before you can start your journey in data science, you'll need to set up your development environment. We recommend using Anaconda, a popular platform for data science and machine learning, and Jupyter Notebook, an interactive computing environment. Here are some resources to help you get started:
+
+### Installing Anaconda
+
+- [Anaconda Installation Guide](https://docs.anaconda.com/anaconda/install/): Official Anaconda installation documentation provides step-by-step instructions for various platforms.
+
+### Setting Up Jupyter Notebook
+
+- [Jupyter Notebook Tutorial](https://www.youtube.com/watch?v=HW29067qVWk): Watch this tutorial on YouTube by Corey Schafer to learn how to install and use Jupyter Notebook.
+
+- [Jupyter Notebook for Beginners](https://www.youtube.com/watch?v=HW29067qVWk): Another helpful tutorial on YouTube by Data School to get you started with Jupyter Notebook.
+
+Feel free to explore these resources to set up your data science environment. Once you're all set, return to the main curriculum and begin your data science journey.
+
+
+
 ---
 
 Happy learning! 🚀
