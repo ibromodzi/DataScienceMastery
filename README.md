@@ -88,7 +88,7 @@ Before you can start your journey in data science, you'll need to set up your de
 
 - [Jupyter Notebook Tutorial](https://www.youtube.com/watch?v=HW29067qVWk): Watch this tutorial on YouTube by Corey Schafer to learn how to install and use Jupyter Notebook.
 
-- [Jupyter Notebook for Beginners](https://www.youtube.com/watch?v=HW29067qVWk): Another helpful tutorial on YouTube by Data School to get you started with Jupyter Notebook.
+- [Jupyter Notebook for Beginners](https://www.youtube.com/watch?v=5pf0_bpNbkw): Another helpful tutorial on YouTube by Rob Mulla to get you started with Jupyter Notebook.
 
 Feel free to explore these resources to set up your data science environment. Once you're all set, return to the main curriculum and begin your data science journey.
 
