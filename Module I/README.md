@@ -16,7 +16,7 @@ Welcome to Module 1 of the Data Science Curriculum! In this module, we'll lay th
 
 This module includes the following files:
 
-- [Introduction to Data Science.pdf](Introduction%20to%20Data%20Science.pdf): [View PDF](https://github.com/ibromodzi/DataScienceMastery/blob/main/Introduction%20to%20Data%20Science.pdf): Introduction to data science and its concepts.
+- [Introduction to Data Science.pdf](https://github.com/ibromodzi/DataScienceMastery/blob/main/Introduction%20to%20Data%20Science.pdf): Introduction to data science and its concepts.
 - [Python Fundamentals I.ipynb](Python%20Fundamentals%20I.ipynb): Introduction to Python programming, setting up the environment, variables, expressions, operations, and precedence.
 - [Python Fundamentals II.ipynb](Python%20Fundamentals%20II.ipynb): Dive into data types, from Numeric to dictionaries.
 - [Python Fundamentals III.ipynb](Python%20Fundamentals%20III.ipynb): Understand control structures like loops and conditionals.
