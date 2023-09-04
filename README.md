@@ -38,15 +38,18 @@ The curriculum is organized into several modules, each covering a specific topic
   - Learn basic statistical concepts for data interpretation
   - Dive into hypothesis testing and confidence intervals
 
-- **Module 5: Machine Learning Fundamentals**
+- **Module 5: Exploratory Data Analysis (EDA)**
+  - Understand the foundations of EDA for ML
+    
+- **Module 6: Machine Learning Fundamentals**
   - Understand the foundations of supervised and unsupervised learning
   - Gain hands-on experience with common algorithms
 
-- **Module 6: Advanced Topics (Coming Soon)**
-  - **Module 6.1: Deep Dive into Machine Learning**
+- **Module 7: Advanced Topics (Coming Soon)**
+  - **Module 7.1: Deep Dive into Machine Learning**
     - Explore advanced machine learning techniques
     - Study deep learning and neural networks
-  - **Module 6.2: Big Data and Beyond**
+  - **Module 7.2: Big Data and Beyond**
     - Handle big datasets with technologies like Spark
     - Explore emerging trends in the data science landscape
 
